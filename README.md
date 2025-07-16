@@ -1,4 +1,4 @@
-# 🫀 CardioPredict – Cardiovascular Disease Risk Prediction System
+# 🫀 HeartRisk-AI – Cardiovascular Disease Risk Prediction System
 
 An AI-powered web application that predicts the risk of cardiovascular disease using patient health metrics. Built using Python, Flask, and machine learning models, the system analyzes real-world health data to generate real-time risk assessments.
 
@@ -38,8 +38,8 @@ An AI-powered web application that predicts the risk of cardiovascular disease u
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/CardioPredict.git
-cd CardioPredict
+git clone https://github.com/your-username/HeartRisk-AI.git
+cd HeartRisk-AI
 
 # Install dependencies
 pip install -r requirements.txt
